@@ -1,6 +1,7 @@
-package tech.rocksavage.style
+package tech.rocksavage.style.scala
 
 import scalafix.v1._
+
 import scala.meta._
 
 class NoVarRule extends SyntacticRule("NoVarRule") {

@@ -1,2 +1,5 @@
-tech.rocksavage.style.NoVarRule
-tech.rocksavage.style.NoPrintlnRule
+tech.rocksavage.style.scala.NoVarRule
+tech.rocksavage.style.scala.NoSemicolonsRule
+tech.rocksavage.style.scala.ExplicitResultTypesRule
+tech.rocksavage.style.scala.CamelCaseMethodNamesRule
+tech.rocksavage.style.scala.ClassAndObjectNamingRule
