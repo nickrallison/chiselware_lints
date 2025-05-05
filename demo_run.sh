@@ -22,7 +22,7 @@ cd chiselware_lints
 sbt clean publishLocal
 cd ..
 
-# 4. Compile with scalafix rules
+# 3. Compile uart with scalafix rules
 cd uart
 git fetch origin scalafix
 git checkout scalafix
