@@ -1,6 +1,4 @@
 {
-  "sbtVersion": "1.5.5",
-  "scalaVersions": ["2.13.15"],
   "scalaCFlags": [
     "-deprecation",
     "-feature",
