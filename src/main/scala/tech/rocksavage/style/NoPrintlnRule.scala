@@ -1,3 +1,5 @@
+package tech.rocksavage.style
+
 import scalafix.v1._
 import scala.meta._
 
